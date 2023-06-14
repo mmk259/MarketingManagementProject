@@ -1,7 +1,7 @@
 # MarketingManagementProject
 ----------------------------
-#Marketing Plan of an AI powered Drone
-#The salient features of this project are:
+# Marketing Plan of an AI powered Drone
+### The salient features of this project are:
 Idea Generation & Idea Screening
 SWOT
 Market Segmentation
